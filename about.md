@@ -4,8 +4,15 @@ title: 关于我
 permalink: /about/
 ---
 
-##我是一个很普通的科技宅
+## 自我定位
 
-以前喜欢写各种短片小说
+* 是一个长得略普通的科技宅
 
-现在喜欢写代码
+* 以前喜欢写各种短小说
+
+* 现在喜欢敲烂代码
+
+* 在一家外资保险公司鼓捣企业微信
+
+![zipai](https://img3.doubanio.com/view/photo/photo/apWm9OiKK8c0YgtMfIKrgQ/48735453/x1317971792.jpg)
+
